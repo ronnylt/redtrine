@@ -15,3 +15,7 @@ Installation
     phpunit
     
     bin/behat
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ronnylt/redtrine/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
